@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+
+PyQt5
+seaborn
+numpy
+pandas
+matplotlib
